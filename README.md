@@ -35,7 +35,7 @@ Feel free to go through other lectures if needed.
 * [Designing data intensive appliations](https://dataintensive.net/) This is by far one of the best books about large-scale systems and the practical challenges encountered during building them. It's focussed more on data-oriented applications though.
 
 * [System Design Interview Preperation Series by CodeKarle](https://www.youtube.com/watch?v=3loACSxowRU&list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3) This is a collection of some of the most commonly asked system design interview question explain in a very detailed and straight forward manner.
-
+* [introduction to system design](https://youtu.be/m8Icp_Cid5o?si=jMUxIx4M2b2c_osy) This is a detailed introduction of system design. Discussing fundamental concept of system designing. 
 
 These talks should give you a starting point on how to think about such problems.
 
@@ -161,8 +161,8 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
 * [WebEngage Engineering Blog](http://engineering.webengage.com/)
 * [Yammer Engineering](http://eng.yammer.com/blog/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
-* [Smarkets Blog](https://smarketshq.com/)
-
+* [Smarkets Blog](https://smarketshq.com/) 
+* [spotify engineering Blog](https://engineering.atspotify.com/)
 ## <a name='tldr'>Low on time ?</a>
 
 **I would HIGHLY recommend you do not take a shortcut unless you have a week or so for an interview. System design is best learnt by practising, shortcuts might help you in the short term, but would recommend coming back to this link for an in-depth understanding after the interview**
